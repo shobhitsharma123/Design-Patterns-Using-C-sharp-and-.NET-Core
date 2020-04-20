@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qaOK7u4ZOXvSSUzUV2bifn1RMGs7y/Mfnc8WzUxjKtvIQ8ah+arLgc4kJiBsvC5qTzfNUurviwBReTWuwtgq6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\Design Patterns Using C sharp and .NET Core\\Design Patterns Using C sharp and .NET Core\\Design Patterns Using C sharp and .NET Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
